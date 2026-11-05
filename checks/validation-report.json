@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:27.408450+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6701-suspense-string-ostinatos-opening/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "8afaa0ffacbcb45643bac97104a5d3079caa006e858b7ac9491a0aca0b892890",
+      "errors": []
+    },
+    {
+      "path": "midi/z6701-suspense-string-ostinatos-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "8095175ec2bb7c92690ddc80cfb5d283d0f3c362ff3c511a826f50878c3ee4b2",
+      "errors": []
+    },
+    {
+      "path": "midi/z6701-suspense-string-ostinatos-opening/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6701-suspense-string-ostinatos-opening/principal_motif.mid",
+      "bytes": 491,
+      "sha256": "46ce54cc5675af81588655619d19dd79e13093704a3868558094651dda0df990",
+      "errors": []
+    },
+    {
+      "path": "midi/z6701-suspense-string-ostinatos-opening/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "2f65870b6fc1d4768223d09831ad0ef8fcc961c6f63ac16c005f17473e52e136",
+      "errors": []
+    },
+    {
+      "path": "midi/z6701-suspense-string-ostinatos-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "82909816961819cead3292897b80cd037065176b18b7d1f5164ee8fbe5b487c0",
+      "errors": []
+    },
+    {
+      "path": "midi/z6701-suspense-string-ostinatos-opening/z6701-suspense-string-ostinatos-opening-combined.mid",
+      "bytes": 3088,
+      "sha256": "1a36e120e74da050a4a4e5f028c0d4904f3c6ba416aec7f43a68d54dd6bddd1e",
+      "errors": []
+    },
+    {
+      "path": "midi/z6702-suspense-string-ostinatos-variation/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "0e0d0b9ae66338666af2f97709891ac983b1dab0401ac795ed5eb9af54125f83",
+      "errors": []
+    },
+    {
+      "path": "midi/z6702-suspense-string-ostinatos-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "72f49e9595476a90725bbc038ad1ed5b9ae4edd42091b7abee05a0ef7b5cd031",
+      "errors": []
+    },
+    {
+      "path": "midi/z6702-suspense-string-ostinatos-variation/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6702-suspense-string-ostinatos-variation/principal_motif.mid",
+      "bytes": 490,
+      "sha256": "cc50ab32552560bd86e66d88809d23df97a29d207a89f64aef8a0c70f538a293",
+      "errors": []
+    },
+    {
+      "path": "midi/z6702-suspense-string-ostinatos-variation/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "3060b589022512a89f0f3047f842ea51d636fa6398e86058b5722b904282d29b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6702-suspense-string-ostinatos-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "433b36f92b9aafcc24a74a18bd7752395baaaaa215a5d432c8e5aaaf7a714f8d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6702-suspense-string-ostinatos-variation/z6702-suspense-string-ostinatos-variation-combined.mid",
+      "bytes": 3087,
+      "sha256": "58127f89f3bac727382fd776be0c6eab5c8ecdbf159ccc432abcfa995bd15dd5",
+      "errors": []
+    },
+    {
+      "path": "midi/z6703-suspense-string-ostinatos-contrast/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "6f69a861277e7cf0f8330c6194ba09637931dd48642bc9bdb539141fc95716ca",
+      "errors": []
+    },
+    {
+      "path": "midi/z6703-suspense-string-ostinatos-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ea25f67ef76ac8653581083405242d1ba656cd8474904cf9eed0ef87e9846b06",
+      "errors": []
+    },
+    {
+      "path": "midi/z6703-suspense-string-ostinatos-contrast/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6703-suspense-string-ostinatos-contrast/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "7a6b0d80363f77141ba33e0b0d0056613184e3265098494565afdad877becf3d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6703-suspense-string-ostinatos-contrast/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "a80ce234d5b2b6c08b2bbae8cd33f4e103d61846a915b5722712a07e26c5ff19",
+      "errors": []
+    },
+    {
+      "path": "midi/z6703-suspense-string-ostinatos-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "319cd0dea728ffc22cd0d7c0e1241468abc5ec6a10048b6b9bc4bc333ad0095a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6703-suspense-string-ostinatos-contrast/z6703-suspense-string-ostinatos-contrast-combined.mid",
+      "bytes": 3067,
+      "sha256": "93d7d5708c90ffde568f1d2f80773046b9b5097f195dd33867c96748cb2a0049",
+      "errors": []
+    },
+    {
+      "path": "midi/z6704-suspense-string-ostinatos-return/chord_pulse.mid",
+      "bytes": 784,
+      "sha256": "4b2acca11f0624f0a12abf05bfccdff8627b0f62972d4b2bc0c67acf9c005457",
+      "errors": []
+    },
+    {
+      "path": "midi/z6704-suspense-string-ostinatos-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "94dea923452519bcccb8d4e0179a9522bf1f37d17d70598dd018449bfeb2ea72",
+      "errors": []
+    },
+    {
+      "path": "midi/z6704-suspense-string-ostinatos-return/drums.mid",
+      "bytes": 1042,
+      "sha256": "3eba09e4e23b1dd92e5b2ae22449b899192cd2522aed1a5597ed967b0d251874",
+      "errors": []
+    },
+    {
+      "path": "midi/z6704-suspense-string-ostinatos-return/principal_motif.mid",
+      "bytes": 470,
+      "sha256": "d28b6ed95d0991e584289b250e920930aa9e62c7d46b42edfbbd173fe3f8f1d9",
+      "errors": []
+    },
+    {
+      "path": "midi/z6704-suspense-string-ostinatos-return/sub_bass.mid",
+      "bytes": 613,
+      "sha256": "21d1d12a639feb403bcd56640e21457763c55b9efbb26432bfe91878ae313404",
+      "errors": []
+    },
+    {
+      "path": "midi/z6704-suspense-string-ostinatos-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "abe739e19f3f8e0e1058fe3ee3031f8f848d863017dec63d62afd6b7dbc24a9b",
+      "errors": []
+    },
+    {
+      "path": "midi/z6704-suspense-string-ostinatos-return/z6704-suspense-string-ostinatos-return-combined.mid",
+      "bytes": 3067,
+      "sha256": "6c13e9a1b03412476f17b13b26f236fd4c10a721dfa5881808b9f579fd04d30b",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

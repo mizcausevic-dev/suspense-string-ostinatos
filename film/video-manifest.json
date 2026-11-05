@@ -1,0 +1,26 @@
+{
+  "title": "Suspense String Ostinatos",
+  "study": "z6701",
+  "bpm": 72,
+  "source_audio": "preview/suspense-string-ostinatos-simple-synth-preview.mp3",
+  "source_audio_sha256": "27929dd7c6ae67f2da2217677f2fee086418c4cceb1c2ce1d339e6a436324630",
+  "source_midi": "midi/z6701-suspense-string-ostinatos-opening/z6701-suspense-string-ostinatos-opening-combined.mid",
+  "source_midi_sha256": "1a36e120e74da050a4a4e5f028c0d4904f3c6ba416aec7f43a68d54dd6bddd1e",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0e33e7b68f2d471f960071806938e652354edbce24fc200b63a44e3d4b26bb51",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "4645a20545ffc34d5394a023521dc4914b8eae449122bb32354b1a52bda02806",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "e3816ede41d6516f0ac885f0f3be286f2ca3372016de618f26a809d2cf0b9a85",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
