@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/suspense-string-ostinatos-simple-synth-preview.mp3",
-  "preview_sha256": "27929dd7c6ae67f2da2217677f2fee086418c4cceb1c2ce1d339e6a436324630",
+  "preview_sha256": "f874bc68d2e60bbeec7e21363f880458914fe20f4482f94bf499f866ced5c126",
   "source_midi_path": "midi/z6701-suspense-string-ostinatos-opening/z6701-suspense-string-ostinatos-opening-combined.mid",
-  "source_midi_sha256": "1a36e120e74da050a4a4e5f028c0d4904f3c6ba416aec7f43a68d54dd6bddd1e",
+  "source_midi_sha256": "2331a0da0ddaa7e13b2356bf083afcee2259acc60b7ce530c917ef0d0d565096",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 106.667
   },
   "measurement": {
-    "sample_peak": 0.141658,
+    "sample_peak": 0.154452,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

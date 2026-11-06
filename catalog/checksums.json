@@ -53,8 +53,8 @@
     },
     {
       "path": "catalog/clip-index.csv",
-      "bytes": 1820,
-      "sha256": "38a84178869efff55573a1dd0e6c50e6ea4b61d5e7f9a33c0993f9a176e58268"
+      "bytes": 1828,
+      "sha256": "97fa9634bbf59b78a189048600d3ea799ef7915400f071930bce26188a8cca2a"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 48804,
-      "sha256": "0e33e7b68f2d471f960071806938e652354edbce24fc200b63a44e3d4b26bb51"
+      "bytes": 55421,
+      "sha256": "1b29cfcb5b6e8459abd3b2784f94388629caae4d57eaf216eac92f2a5ebc5182"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 389,
-      "sha256": "243088efcb9900cacc4e6ebe5dbfd3240604afd96e7289b624182bf934027309"
+      "sha256": "c37ce8643e011d13018f14fc0761c576396c8dac5b7b3fbedf47cd0d2e5deeb3"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,88 +108,88 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "231d5dbeeaa9afb0eeda98ce66630d4d529e7fda53c1f6fa6db8a55c33dc3e44"
     },
     {
       "path": "clips/z6701-melody-01.mid",
-      "bytes": 121,
-      "sha256": "c7583412fce5b204587cdc1883a83db41e86002e51655676e73192a2a1cd521d"
+      "bytes": 169,
+      "sha256": "f810c2290891973e9ced1e38a8b242b8d6011ec92f3051bc7c29362800b2d335"
     },
     {
       "path": "clips/z6701-melody-02.mid",
-      "bytes": 121,
-      "sha256": "e1ba86ec4741b82d8016837d6527ea977e2207cf0df4b130dfebdd2efa211936"
+      "bytes": 169,
+      "sha256": "6d3f79cdb87c702cb5c49d8ca8306c4bae4a769533d401230316127d2e35185a"
     },
     {
       "path": "clips/z6701-melody-03.mid",
-      "bytes": 91,
-      "sha256": "33e7da23d2f6636c485fd913106c5662ad663e68825e323ab6f2a1d32108ebf7"
+      "bytes": 129,
+      "sha256": "f8115b0080c53f5e09c6f6f3dd2abb9816ccb4134727f34ae8b29b36d3920329"
     },
     {
       "path": "clips/z6701-melody-04.mid",
-      "bytes": 91,
-      "sha256": "83f9a7b99760c97e28500125bfe390bae422533a0bf05263cb42814471cafad8"
+      "bytes": 129,
+      "sha256": "b3124ac2dff06ba1aab1a555ce3baf5f3c7b26f3ad9ccaad72e06d0fb5fa4c44"
     },
     {
       "path": "clips/z6702-melody-01.mid",
-      "bytes": 120,
-      "sha256": "68483e59cb6faeddaea3e064513d2d7889962674c646a132b8cfc7cdce137a3c"
+      "bytes": 168,
+      "sha256": "30882c9aab8c739aa73ac0458e869c1e0b90b2a4ab310bcded4ec5df3f02f9d3"
     },
     {
       "path": "clips/z6702-melody-02.mid",
-      "bytes": 120,
-      "sha256": "56efa62fec733a4f186684b843930a91c048a3340d0082a016270cdf3a14e766"
+      "bytes": 168,
+      "sha256": "94304fddae65066bf5c0bebfea9037351276bb6e6574ff8adde9577191360881"
     },
     {
       "path": "clips/z6702-melody-03.mid",
-      "bytes": 91,
-      "sha256": "126ec69c7436e87e92eb1566d693aa614063cb55a256224b2b0c3a5bc78eb89a"
+      "bytes": 118,
+      "sha256": "936603f9216ad0740a12169096726531cfab58aad907679a4b92aa3eb929b739"
     },
     {
       "path": "clips/z6702-melody-04.mid",
-      "bytes": 91,
-      "sha256": "a655bd784aed130d48ef1de4d042b67d3378bf50eaafc80c3afd3b305751127d"
+      "bytes": 118,
+      "sha256": "fd159f50f8e864500c8f4cd04bbfbd673387e5818d7b680df0bf1bc95f5a0700"
     },
     {
       "path": "clips/z6703-melody-01.mid",
-      "bytes": 120,
-      "sha256": "bb60c6b33564674e21f91893b2c21f40002cca2cff2ded5f2ccd187e3b665f4a"
+      "bytes": 169,
+      "sha256": "add2fded40e4f7d6a0381e41bb8377d72b76da409959b0d9a659f1f474c8fad6"
     },
     {
       "path": "clips/z6703-melody-02.mid",
-      "bytes": 120,
-      "sha256": "8d460aab8d154b635ad9378244770408cbd74e4b37a11520dc1c6afcb2a99a56"
+      "bytes": 169,
+      "sha256": "d294ebdf3b0a87d7cfe57834cb490b8704e0382e2c7022cdd8971cefa9bbdb83"
     },
     {
       "path": "clips/z6703-melody-03.mid",
-      "bytes": 91,
-      "sha256": "a736e41c0d52c32e6858a8e2154848df1a8c85ef707cb4be41799340a5fc17c3"
+      "bytes": 100,
+      "sha256": "c218af1ed27320ffedf1168ab46fe334bea80affe23657d9496de48d13d5af5c"
     },
     {
       "path": "clips/z6703-melody-04.mid",
-      "bytes": 91,
-      "sha256": "0dd21b4643e598d5072f270bf0890370b46515e43499845b54311b6b3e7dfbf8"
+      "bytes": 100,
+      "sha256": "0f0d6b685d80fb5e83dedcb4de2a85e9cecad219524d8bbb088aef7ce45b1739"
     },
     {
       "path": "clips/z6704-melody-01.mid",
-      "bytes": 120,
-      "sha256": "f043402a6a1435a3bbd64f887d4a5fd4134566d2e35f835c24073998da0135ab"
+      "bytes": 167,
+      "sha256": "f3712f657eb57de3edef7d8d095cc4b9e1c531087ad73daf28e1337a38fd78e6"
     },
     {
       "path": "clips/z6704-melody-02.mid",
-      "bytes": 120,
-      "sha256": "7756d54323d50657412ac4d4656b58972d00d8a17e4ba58f171c65a9504d319a"
+      "bytes": 167,
+      "sha256": "361568537a68877c239a7bc019df90c538ccf192c96f34bb8f4f154fb162cf83"
     },
     {
       "path": "clips/z6704-melody-03.mid",
-      "bytes": 91,
-      "sha256": "14dd031838c671b6e1a84eaa3e74d011a2dd09fb6358f3207aae133c819816bd"
+      "bytes": 110,
+      "sha256": "a6d8df98eadf5c6f4abc60bdd8ad0544e94190808bc4ee9e2d40cdb8820eefdd"
     },
     {
       "path": "clips/z6704-melody-04.mid",
-      "bytes": 91,
-      "sha256": "19731bc1ef42bd27629d0632093ad32e3ee1b8d876e25388a4814790f8a2bd10"
+      "bytes": 110,
+      "sha256": "eac0838ec85f291d5d51dc8e3e0016d9b708ea0fde5e9d22e2637f091ef78cca"
     },
     {
       "path": "delivery.md",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/suspense-string-ostinatos-midi.zip",
-      "bytes": 24522,
-      "sha256": "03f24c595076f371a82b5eb070944bd79e663996cf8562f782c8929d228547b7"
+      "bytes": 27367,
+      "sha256": "ce7aceb8b27250a2e21d741f99d499f519ce67d86a989555c6ccea0a2148b069"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2232,
-      "sha256": "d0245c4ceefc683e894ed2f8a96ec8be01b26572ca26028d05815e7c8397d252"
+      "bytes": 2297,
+      "sha256": "8cf7066f205389d282f9b82afe42b1b6bd75cc2be9d4166465c7d73c3be9fa40"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 823200,
-      "sha256": "e3816ede41d6516f0ac885f0f3be286f2ca3372016de618f26a809d2cf0b9a85"
+      "bytes": 824191,
+      "sha256": "172c51a64e60161cd023e555ff67d9e1b5c0d67bf9eb77f518bf860edbcfa2b2"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1233,
-      "sha256": "ef5d1941a117fc9cfb238c1882b852ae31ae48dcf89767e0c70e648095c5778b"
+      "bytes": 1259,
+      "sha256": "4efb97340075e01cf43eb3a57081f6999b8876a43103ffae532ad256ec05f438"
     },
     {
       "path": "index.html",
-      "bytes": 10042,
-      "sha256": "f94f004d5cbb81ce516bec7fdda7199c475c9d1efa170f3c44f93160208b22ab"
+      "bytes": 10257,
+      "sha256": "45300ab828517e6b237fa561c09e96f86ba1c8b880bb339c717e26ee5a0605de"
     },
     {
       "path": "midi/z6701-suspense-string-ostinatos-opening/chord_pulse.mid",
@@ -253,8 +253,8 @@
     },
     {
       "path": "midi/z6701-suspense-string-ostinatos-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "46ce54cc5675af81588655619d19dd79e13093704a3868558094651dda0df990"
+      "bytes": 845,
+      "sha256": "00b90a8855e326630c883fd51fc938a3fdfa53dabce2eb0e7de0675da29634bf"
     },
     {
       "path": "midi/z6701-suspense-string-ostinatos-opening/sub_bass.mid",
@@ -268,8 +268,8 @@
     },
     {
       "path": "midi/z6701-suspense-string-ostinatos-opening/z6701-suspense-string-ostinatos-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "1a36e120e74da050a4a4e5f028c0d4904f3c6ba416aec7f43a68d54dd6bddd1e"
+      "bytes": 3442,
+      "sha256": "2331a0da0ddaa7e13b2356bf083afcee2259acc60b7ce530c917ef0d0d565096"
     },
     {
       "path": "midi/z6702-suspense-string-ostinatos-variation/chord_pulse.mid",
@@ -288,8 +288,8 @@
     },
     {
       "path": "midi/z6702-suspense-string-ostinatos-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "cc50ab32552560bd86e66d88809d23df97a29d207a89f64aef8a0c70f538a293"
+      "bytes": 827,
+      "sha256": "6817c75cc7dcc178715aa2fa3b60162ca7c306757898f8a0f36d9c7dc1c05b27"
     },
     {
       "path": "midi/z6702-suspense-string-ostinatos-variation/sub_bass.mid",
@@ -303,8 +303,8 @@
     },
     {
       "path": "midi/z6702-suspense-string-ostinatos-variation/z6702-suspense-string-ostinatos-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "58127f89f3bac727382fd776be0c6eab5c8ecdbf159ccc432abcfa995bd15dd5"
+      "bytes": 3424,
+      "sha256": "f10fd9f4ee5c7566905ecf91e7f8450aca39a6478dce97d760a63962ca07dd0f"
     },
     {
       "path": "midi/z6703-suspense-string-ostinatos-contrast/chord_pulse.mid",
@@ -323,8 +323,8 @@
     },
     {
       "path": "midi/z6703-suspense-string-ostinatos-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "7a6b0d80363f77141ba33e0b0d0056613184e3265098494565afdad877becf3d"
+      "bytes": 789,
+      "sha256": "4c293ae49013b65e92cde9f11b5adcf6e001ef255fe3c30172419dccc5e7f8a6"
     },
     {
       "path": "midi/z6703-suspense-string-ostinatos-contrast/sub_bass.mid",
@@ -338,8 +338,8 @@
     },
     {
       "path": "midi/z6703-suspense-string-ostinatos-contrast/z6703-suspense-string-ostinatos-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "93d7d5708c90ffde568f1d2f80773046b9b5097f195dd33867c96748cb2a0049"
+      "bytes": 3386,
+      "sha256": "664944a6cf65de2e9340e3307bf8fe9253d063bc4baa73ec21ac2f036ddc48c0"
     },
     {
       "path": "midi/z6704-suspense-string-ostinatos-return/chord_pulse.mid",
@@ -358,8 +358,8 @@
     },
     {
       "path": "midi/z6704-suspense-string-ostinatos-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "d28b6ed95d0991e584289b250e920930aa9e62c7d46b42edfbbd173fe3f8f1d9"
+      "bytes": 807,
+      "sha256": "57d56c974fd29f5d33d175f854d3600b776df44245192d873da73d82d77926de"
     },
     {
       "path": "midi/z6704-suspense-string-ostinatos-return/sub_bass.mid",
@@ -373,23 +373,28 @@
     },
     {
       "path": "midi/z6704-suspense-string-ostinatos-return/z6704-suspense-string-ostinatos-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "6c13e9a1b03412476f17b13b26f236fd4c10a721dfa5881808b9f579fd04d30b"
+      "bytes": 3404,
+      "sha256": "dbe5ce6f66d84b002679b0f971676db5034e6cc99ed769b095c5c69a2cc58e89"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1186,
-      "sha256": "d47f555d9a677bb5ba5aae8d609e97c55e451443a4d7bcc4d0d1069f16e536e3"
+      "sha256": "5c46ed4e8b837c5dc4c08a20a808870acfce880211f7fced88b96f6259681e81"
     },
     {
       "path": "preview/suspense-string-ostinatos-simple-synth-preview.mp3",
       "bytes": 2573627,
-      "sha256": "27929dd7c6ae67f2da2217677f2fee086418c4cceb1c2ce1d339e6a436324630"
+      "sha256": "f874bc68d2e60bbeec7e21363f880458914fe20f4482f94bf499f866ced5c126"
     },
     {
       "path": "README.md",
-      "bytes": 3997,
-      "sha256": "e106f12bf38a0f270f15e91859b0285592c7659311fbd4c8d1bc6ca891f8205d"
+      "bytes": 4163,
+      "sha256": "d6529dbe92e9dfd012ab99179057774672104b13f6c6c6eb037eefd46b0dac49"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 147463,
-      "sha256": "c692d41432c4d2932319ff9ad118ba1316a1d8d8bb058790337649670fc3af2d"
+      "bytes": 147926,
+      "sha256": "67351595dd07ca8eae67f85f7e18be0be55d96cef26165e7c8eea439c367b9d9"
     },
     {
       "path": "tools/polish_release.py",

@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T19:58:27.408450+00:00",
+  "run_time_utc": "2026-11-06T15:30:36.794503+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,8 +26,8 @@
     },
     {
       "path": "midi/z6701-suspense-string-ostinatos-opening/principal_motif.mid",
-      "bytes": 491,
-      "sha256": "46ce54cc5675af81588655619d19dd79e13093704a3868558094651dda0df990",
+      "bytes": 845,
+      "sha256": "00b90a8855e326630c883fd51fc938a3fdfa53dabce2eb0e7de0675da29634bf",
       "errors": []
     },
     {
@@ -44,8 +44,8 @@
     },
     {
       "path": "midi/z6701-suspense-string-ostinatos-opening/z6701-suspense-string-ostinatos-opening-combined.mid",
-      "bytes": 3088,
-      "sha256": "1a36e120e74da050a4a4e5f028c0d4904f3c6ba416aec7f43a68d54dd6bddd1e",
+      "bytes": 3442,
+      "sha256": "2331a0da0ddaa7e13b2356bf083afcee2259acc60b7ce530c917ef0d0d565096",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/z6702-suspense-string-ostinatos-variation/principal_motif.mid",
-      "bytes": 490,
-      "sha256": "cc50ab32552560bd86e66d88809d23df97a29d207a89f64aef8a0c70f538a293",
+      "bytes": 827,
+      "sha256": "6817c75cc7dcc178715aa2fa3b60162ca7c306757898f8a0f36d9c7dc1c05b27",
       "errors": []
     },
     {
@@ -86,8 +86,8 @@
     },
     {
       "path": "midi/z6702-suspense-string-ostinatos-variation/z6702-suspense-string-ostinatos-variation-combined.mid",
-      "bytes": 3087,
-      "sha256": "58127f89f3bac727382fd776be0c6eab5c8ecdbf159ccc432abcfa995bd15dd5",
+      "bytes": 3424,
+      "sha256": "f10fd9f4ee5c7566905ecf91e7f8450aca39a6478dce97d760a63962ca07dd0f",
       "errors": []
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "midi/z6703-suspense-string-ostinatos-contrast/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "7a6b0d80363f77141ba33e0b0d0056613184e3265098494565afdad877becf3d",
+      "bytes": 789,
+      "sha256": "4c293ae49013b65e92cde9f11b5adcf6e001ef255fe3c30172419dccc5e7f8a6",
       "errors": []
     },
     {
@@ -128,8 +128,8 @@
     },
     {
       "path": "midi/z6703-suspense-string-ostinatos-contrast/z6703-suspense-string-ostinatos-contrast-combined.mid",
-      "bytes": 3067,
-      "sha256": "93d7d5708c90ffde568f1d2f80773046b9b5097f195dd33867c96748cb2a0049",
+      "bytes": 3386,
+      "sha256": "664944a6cf65de2e9340e3307bf8fe9253d063bc4baa73ec21ac2f036ddc48c0",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/z6704-suspense-string-ostinatos-return/principal_motif.mid",
-      "bytes": 470,
-      "sha256": "d28b6ed95d0991e584289b250e920930aa9e62c7d46b42edfbbd173fe3f8f1d9",
+      "bytes": 807,
+      "sha256": "57d56c974fd29f5d33d175f854d3600b776df44245192d873da73d82d77926de",
       "errors": []
     },
     {
@@ -170,8 +170,8 @@
     },
     {
       "path": "midi/z6704-suspense-string-ostinatos-return/z6704-suspense-string-ostinatos-return-combined.mid",
-      "bytes": 3067,
-      "sha256": "6c13e9a1b03412476f17b13b26f236fd4c10a721dfa5881808b9f579fd04d30b",
+      "bytes": 3404,
+      "sha256": "dbe5ce6f66d84b002679b0f971676db5034e6cc99ed769b095c5c69a2cc58e89",
       "errors": []
     }
   ],
