@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/suspense-string-ostinatos-midi.zip",
-      "bytes": 27367,
-      "sha256": "ce7aceb8b27250a2e21d741f99d499f519ce67d86a989555c6ccea0a2148b069"
+      "bytes": 28873,
+      "sha256": "230ebe5e7bf12583bf48d34049c8f08e8f9ad55e3df4f84d28b7712bc410a2ba"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10257,
-      "sha256": "45300ab828517e6b237fa561c09e96f86ba1c8b880bb339c717e26ee5a0605de"
+      "bytes": 10447,
+      "sha256": "27daa5f639fd198aba42f88832cf1c936ccec96f7a0a6e4c8311f1a8a34eb0fe"
     },
     {
       "path": "midi/z6701-suspense-string-ostinatos-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "dbe5ce6f66d84b002679b0f971676db5034e6cc99ed769b095c5c69a2cc58e89"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1186,
       "sha256": "5c46ed4e8b837c5dc4c08a20a808870acfce880211f7fced88b96f6259681e81"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4163,
-      "sha256": "d6529dbe92e9dfd012ab99179057774672104b13f6c6c6eb037eefd46b0dac49"
+      "bytes": 4278,
+      "sha256": "da032aa10302c6f9ccbc4c60ebe6e8ce2273a2bdaa7456cac34619ecc0d3270b"
     },
     {
       "path": "REVISION.md",
